@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 notasMarce
+=======
+notasJorge
+>>>>>>> 8677fe26a61cb90e7183da1b45ce73b25176600b
